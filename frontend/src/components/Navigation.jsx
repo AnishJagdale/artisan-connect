@@ -10,7 +10,7 @@ export default function Navigation({ view, onNavigate, productCount }) {
       <button
         className="nav__logo"
         onClick={() => onNavigate('home')}
-        aria-label="CraftNest home"
+        aria-label="ArtisanLink home"
       >
         <span className="nav__logo-mark" aria-hidden="true">
           <svg viewBox="0 0 32 32" width="26" height="26">
@@ -29,7 +29,7 @@ export default function Navigation({ view, onNavigate, productCount }) {
             />
           </svg>
         </span>
-        <span className="nav__logo-text">CraftNest</span>
+        <span className="nav__logo-text">ArtisanLink</span>
       </button>
 
       <nav className="nav__links" aria-label="Primary">

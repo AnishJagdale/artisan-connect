@@ -23,7 +23,7 @@ export default function MyProducts({ products, onNavigate }) {
           <p className="empty-state__text">
             Your digital shop starts here.
             <br />
-            Add your first creation and let CraftNest help tell its story.
+            Add your first creation and let ArtisanLink help tell its story.
           </p>
           <button className="btn btn--primary" onClick={() => onNavigate('create')}>
             + Create Product

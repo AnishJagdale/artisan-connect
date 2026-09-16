@@ -17,7 +17,7 @@ const PROCESS_STEPS = [
     number: '03',
     icon: '✨',
     title: 'AI creates your listing',
-    text: 'CraftNest writes a title, description and tags for you.',
+    text: 'ArtisanLink writes a title, description and tags for you.',
   },
   {
     number: '04',
@@ -38,7 +38,7 @@ export default function Home({ products, onNavigate }) {
         <h1 className="hero__title">Create your first digital product</h1>
        <p className="hero__subtitle">
   Whether you're an artisan or run a small craft business, just add a
-  photo and tell us about it. CraftNest will help create your
+  photo and tell us about it. ArtisanLink will help create your
   product listing.
 </p>
         <div className="hero__actions">
@@ -82,7 +82,7 @@ export default function Home({ products, onNavigate }) {
             <p className="empty-state__text">
               Your digital shop starts here.
               <br />
-              Add your first creation and let CraftNest help tell its story.
+              Add your first creation and let ArtisanLink help tell its story.
             </p>
             <button
               className="btn btn--primary"

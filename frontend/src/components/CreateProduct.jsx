@@ -225,7 +225,7 @@ function handlePhotoSelect(file) {
             Ready to create your listing
           </h2>
           <p className="create-card__hint">
-            CraftNest will use your photo and description to write a
+            ArtisanLink will use your photo and description to write a
             professional listing for you to review.
           </p>
 

@@ -56,7 +56,7 @@ export default function App() {
       )}
 
       <footer className="footer">
-        <p>CraftNest — Your craft deserves a digital home.</p>
+        <p>ArtisanLink — Your craft deserves a digital home.</p>
       </footer>
     </div>
   )
